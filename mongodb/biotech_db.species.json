@@ -1,0 +1,909 @@
+[{
+  "_id": {
+    "$oid": "6653955f1333c8f1167dcec1"
+  },
+  "commonName": "Javali",
+  "scientificName": "Sus scrofa",
+  "imageUrl": "https://www.infoescola.com/wp-content/uploads/2019/07/javali-1343200010.jpg",
+  "description": "O javali ou javali-euroasiático, também conhecido como javardo, porco-bravo, porco-monteiro, porco-selvagem-euroasiático e porco-montês, é um animal artiodáctilo da família Suidae, do género Sus. Tem ampla distribuição geográfica, sendo nativo da Europa, Ásia, Ilhas Sonda e Norte da África."
+},
+{
+  "_id": {
+    "$oid": "6653991a1333c8f1167dcec2"
+  },
+  "commonName": "Texugo-do-mel",
+  "scientificName": "Mellivora capensis",
+  "imageUrl": "https://mega.ibxk.com.br/2020/08/25/25232402651063.jpg",
+  "description": "O ratel, também comummente conhecido como texugo-do-mel, é uma espécie da família Mustelidae. Ocorrem na maioria da África e no Oeste e Sul da Ásia. É a única espécie classificada no gênero Mellivora e na subfamília Mellivorinae."
+},
+{
+  "_id": {
+    "$oid": "66539b2c1333c8f1167dcec4"
+  },
+  "commonName": "Jaré",
+  "scientificName": "Alligator truncatus",
+  "imageUrl": "https://pbs.twimg.com/media/EGPHaO9WoAA4vAR.jpg",
+  "description": "O Jaré (Alligator truncatus) é uma espécie fictícia de jacaré conhecida por sua aparência peculiar, onde parece faltar a parte mediana do corpo, criando uma forma truncada. Com cerca de 1,5 metros de comprimento, pele escamosa variando do verde escuro ao cinza, e uma cabeça larga e curta, o Jaré habita áreas de água doce como pântanos e rios. "
+},
+{
+  "_id": {
+    "$oid": "6653fe7f1333c8f1167dcede"
+  },
+  "commonName": "Elefante Africano",
+  "scientificName": "Loxodonta africana",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Elephant_near_ndutu.jpg/280px-Elephant_near_ndutu.jpg",
+  "description": "O elefante africano é o maior animal terrestre, conhecido por suas grandes orelhas e presas longas. Eles são encontrados em diversos habitats na África, desde florestas até savanas."
+},
+{
+  "_id": {
+    "$oid": "6653fe7f1333c8f1167dcedf"
+  },
+  "commonName": "Tigre-de-Bengala",
+  "scientificName": "Panthera tigris tigris",
+  "imageUrl": "https://imagens4.ne10.uol.com.br/ne10/imagem/noticia/2015/07/27/normal/5146adf154f34b4f41d9eef5b9439dd3.jpg",
+  "description": "O tigre-de-Bengala é uma subespécie de tigre encontrada principalmente na Índia. Ele é conhecido por seu manto laranja com listras pretas distintas."
+},
+{
+  "_id": {
+    "$oid": "6653fe7f1333c8f1167dcee0"
+  },
+  "commonName": "Pinguim-Imperador",
+  "scientificName": "Aptenodytes forsteri",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/2007_Snow-Hill-Island_Luyten-De-Hauwere-Emperor-Penguin-111.jpg",
+  "description": "O pinguim-imperador é a maior espécie de pinguim. Eles são conhecidos por sua plumagem preta e branca e por viverem nas condições extremas da Antártica."
+},
+{
+  "_id": {
+    "$oid": "6653fe7f1333c8f1167dcee1"
+  },
+  "commonName": "Gorila-do-Ocidente",
+  "scientificName": "Gorilla gorilla",
+  "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTXQOX4_No1TKrdvz0arCiusuaKXdAtLhBu70J329BUg&s",
+  "description": "O gorila-do-ocidente é uma das duas espécies de gorilas. Eles são conhecidos por sua força e inteligência e vivem em florestas tropicais na África Central."
+},
+{
+  "_id": {
+    "$oid": "6653fe7f1333c8f1167dcee3"
+  },
+  "commonName": "Tartaruga-de-Couro",
+  "scientificName": "Dermochelys coriacea",
+  "imageUrl": "https://midias.agazeta.com.br/2021/03/09/1920x1080/a-tartaruga-de-couro-dermochelys-coriacea-tambem-e-conhecida-como-tartaruga-gigante-434515.jpg",
+  "description": "A tartaruga-de-couro é a maior das tartarugas marinhas. Ela é conhecida por sua carapaça flexível e ausência de escamas ósseas."
+},
+{
+  "_id": {
+    "$oid": "6653fe7f1333c8f1167dcee4"
+  },
+  "commonName": "Lobo-Cinzento",
+  "scientificName": "Canis lupus",
+  "imageUrl": "https://s5.static.brasilescola.uol.com.br/be/2021/10/lobo.jpg",
+  "description": "O lobo-cinzento é uma das espécies mais amplamente distribuídas de mamíferos. Eles são conhecidos por sua pelagem espessa e estrutura social complexa."
+},
+{
+  "_id": {
+    "$oid": "6653fe7f1333c8f1167dcee6"
+  },
+  "commonName": "Orangotango-de-Borneu",
+  "scientificName": "Pongo pygmaeus",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/OrangutanP1.jpg",
+  "description": "O orangotango-de-Borneu é uma espécie de grande primata conhecida por seu comportamento inteligente e vida arbórea."
+},
+{
+  "_id": {
+    "$oid": "6653fe7f1333c8f1167dcee7"
+  },
+  "commonName": "Rinoceronte-Branco",
+  "scientificName": "Ceratotherium simum",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Rhino_%28234581759%29.jpeg/1200px-Rhino_%28234581759%29.jpeg",
+  "description": "O rinoceronte-branco é uma das duas espécies de rinocerontes africanos. Eles são conhecidos por seu grande tamanho e dois chifres na cabeça."
+},
+{
+  "_id": {
+    "$oid": "6653fe7f1333c8f1167dcee9"
+  },
+  "commonName": "Panda-Gigante",
+  "scientificName": "Ailuropoda melanoleuca",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Grosser_Panda.JPG/640px-Grosser_Panda.JPG",
+  "description": "O panda-gigante é uma espécie de urso conhecida por sua pelagem preta e branca distintiva. Eles são encontrados principalmente nas montanhas da China central."
+},
+{
+  "_id": {
+    "$oid": "66620e629fa9016a6f9b6498"
+  },
+  "commonName": "Raposa gigante voadora",
+  "scientificName": "Pteropus vampyrus",
+  "description": "A pteropus vampyrus ou raposa-voadora é uma espécie de morcego gigante do gênero Pteropus. É considerada o maior espécie de morcego, com um corpo que pode orçar mais de 30 centímetros de comprimento. Trata-se duma espécie frugívora, que natural do sudeste asiático.",
+  "imageUrl": "https://nsc-total-wp.s3.sa-east-1.amazonaws.com/wp-content/uploads/legacy/s3fs-public/graphql-upload-files/morcego%20gigante%20australiano2_0.jpg"
+},
+{
+  "_id": {
+    "$oid": "666353fdf378510c90c0e520"
+  },
+  "commonName": "Mamba-negra",
+  "scientificName": "Dendroaspis polylepis",
+  "description": "A mamba-negra é uma espécie de cobra grande e extremamente venenosa pertencente à família Elapidae. É nativa de partes da África Subsariana.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Dendroaspis_polylepis_%2814%29.jpg/640px-Dendroaspis_polylepis_%2814%29.jpg"
+},
+{
+  "_id": {
+    "$oid": "666354a7f378510c90c0e521"
+  },
+  "commonName": "Zebra",
+  "scientificName": "Equus zebra",
+  "description": "As zebras são mamíferos que pertencem à família dos cavalos, os equídeos, nativos da África central e do sul.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Zebra_standing_alone_crop.jpg/640px-Zebra_standing_alone_crop.jpg"
+},
+{
+  "_id": {
+    "$oid": "66635568f378510c90c0e522"
+  },
+  "commonName": "Dromedário",
+  "scientificName": "Camelus dromedarius",
+  "description": "O dromedário, camelo-doméstico, camelo-de-uma-bossa ou camelo-árabe é um animal mamífero nativo da região nordeste da África e da parte ocidental da Ásia, pertencente à família Camelidae, sendo uma das duas espécies de camelos.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/07._Camel_Profile%2C_near_Silverton%2C_NSW%2C_07.07.2007.jpg/280px-07._Camel_Profile%2C_near_Silverton%2C_NSW%2C_07.07.2007.jpg"
+},
+{
+  "_id": {
+    "$oid": "666355daf378510c90c0e523"
+  },
+  "commonName": "Sapo-Cururu",
+  "scientificName": "Rhinella diptycha",
+  "description": "O sapo-cururu, também conhecido como sapo-boi, é uma espécie de anuro da família Bufonidae. É nativo da Argentina, Bolívia, Brasil, Paraguai e Uruguai. É encontrado nos biomas do Chaco, da Mata Atlântica, do Pantanal, da Caatinga e do Cerrado, sendo visto principalmente em áreas abertas e peridomiciliares.\r\n\r\nOs machos possuem em média 13 centímetros e as fêmeas 15, sendo a maior espécie de anuro da América do Sul. Sua cor varia entre o castanho-claro ao escuro, com manchas marrons. Possui as glândulas parotoides e paracnêmis bastante desenvolvidas, o que a diferencia das outras espécies. Não possui dimorfismo sexual evidente. Quando girino, possui o corpo preto e oval, com a cauda curta e transparente. O ovo possui em média 1,8 milímetro.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Bufo_schneideri01c.jpg/280px-Bufo_schneideri01c.jpg"
+},
+{
+  "_id": {
+    "$oid": "66635628f378510c90c0e524"
+  },
+  "commonName": "Borboleta-Monarca",
+  "scientificName": "Danaus plexippus",
+  "description": "A borboleta-monarca é uma borboleta da família dos ninfalídeos, da subfamília dos danaíneos. Têm cerca de setenta milímetros de envergadura, asas laranjas com listras pretas e marcas brancas.\r\n\r\nAs suas populações são naturais da América do Norte e são conhecidas por realizarem a mais longa migração realizada por um invertebrado numa única geração, a quarta geração.\r\n\r\nOs indivíduos desta geração eclodem dos seus ovos no Canadá e atingem o estado adulto em Setembro, altura em que voam em grandes grupos, num espetáculo ímpar, cerca de 4000 km até chegarem ao México onde passam o Inverno em grandes aglomerações.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Monarch_Butterfly_Danaus_plexippus_Male_2664px.jpg/280px-Monarch_Butterfly_Danaus_plexippus_Male_2664px.jpg"
+},
+{
+  "_id": {
+    "$oid": "666356bdf378510c90c0e525"
+  },
+  "commonName": "Leopardo",
+  "scientificName": "Panthera pardus",
+  "description": "O leopardo é uma espécie de felídeo nativo da África e da Ásia. É, com o tigre, o leão, o leopardo-das-neves e a onça-pintada, um dos cinco grandes felinos do gênero Panthera. A espécie apresenta cerca de catorze subespécies regionais distribuídas pela África e Ásia, embora haja controvérsias quanto ao número. É também conhecido informalmente pela denominação de \"onça\" em Angola.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Leopard_africa.jpg/280px-Leopard_africa.jpg"
+},
+{
+  "_id": {
+    "$oid": "66635732f378510c90c0e526"
+  },
+  "commonName": "Tamanduá-bandeira",
+  "scientificName": "Myrmecophaga tridactyla",
+  "description": "O tamanduá-bandeira, também chamado bandeira, bandurra, iurumi, jurumi, jurumim, tamanduá-açu, tamanduá-cavalo, papa-formigas-gigante] e urso-formigueiro-gigante, é uma espécie de mamífero xenartro da família dos mirmecofagídeos, encontrado na América Central e na América do Sul. É a maior das quatro espécies de tamanduás e, junto com as preguiças, está incluído na ordem Pilosa. Tem hábito predominantemente terrestre, diferente de seus parentes próximos, o tamanduá-mirim e o tamanduaí, que são arborícolas. O animal mede entre 1,8 e 2,1 metros de comprimento e pesa até 41 kg. É facilmente reconhecido pelo seu focinho longo e padrão característico de pelagem. Possui longas garras nos dedos das patas anteriores, o que faz com que ande com uma postura nodopedálica. O aparelho bucal é adaptado a sua dieta especializada em formigas e cupins, mas em cativeiro ele pode ser alimentado com carne moída, ovos e ração, por exemplo. A longa pelagem o predispõe a ser parasitado por ectoparasitas, como carrapatos.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Myresluger2.jpg/280px-Myresluger2.jpg"
+},
+{
+  "_id": {
+    "$oid": "666357a3f378510c90c0e527"
+  },
+  "commonName": "Coruja-buraqueira",
+  "scientificName": "Athene cunicularia / Speotyto cunicularia",
+  "description": "coruja-buraqueira ou simplesmente buraqueira, é uma ave de rapina americana, da família dos Estrigídeos.\n\nÉ uma coruja terrícola e de hábitos diurnos, embora tende a evitar o calor do meio-dia. Ocorre do Canadá à Terra do Fogo, bem como em quase todo o Brasil, mas com a exceção da Amazônia. Tais aves chegam a medir até 27 centímetros de comprimento. Vivem, no mínimo, nove anos em habitat selvagem e dez em cativeiro. Coloca geralmente de seis a doze ovos. Costumam viver em campos, pastos, restingas, desertos, planícies, praias e aeroportos. Os predadores documentados dessa coruja incluem texugos, serpentes e doninhas.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Athene_cunicularia_1_edited.JPG/280px-Athene_cunicularia_1_edited.JPG"
+},
+{
+  "_id": {
+    "$oid": "66635809f378510c90c0e528"
+  },
+  "commonName": "Cachorro-do-mato-de-orelhas-curtas",
+  "scientificName": "Atelocynus microtis",
+  "description": "O cachorro-do-mato-de-orelhas-curtas ou raposa-de-orelhas-pequenas, é um mamífero da família Canidae que ocorre em parte da América-do-sul. Pouco se sabe sobre esta rara espécie, seus hábitos e distribuição, por ser muito difícil de ser avistada.\n\nMede aproximadamente 35 cm de altura e entre 42 a 100 cm de comprimento, pesando aproximadamente 10 kg quando adulto. Sua cauda possui 30 cm. Suas orelhas medem de 3 a 5 cm.\n\nAs fêmeas são até um terço maiores que os machos. Expectativa de vida e tempo de gestação são desconhecidos.\n\nSua coloração comum é marrom-escuro, com tonalidades brancas mesclada, com exceção da cauda, que é de cor preta. Na parte superior das costas e da cauda, existe uma faixa escura e uma mecha de cor clara na parte inferior da base da cauda.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Atelocynus_microtis_en_amazonie_p%C3%A9ruvienne.jpg/280px-Atelocynus_microtis_en_amazonie_p%C3%A9ruvienne.jpg"
+},
+{
+  "_id": {
+    "$oid": "666358b2f378510c90c0e529"
+  },
+  "commonName": "Sagui-de-tufos-pretos",
+  "scientificName": "Callithrix penicillata",
+  "description": "O sagui-de-tufos-pretos ou mico-estrela, também genericamente designado massau, mico, saguim, sauí, sauim, soim, sonhim, tamari e xauim, é uma espécie de macaco do Novo Mundo e gênero calitrix (Callithrix), da família dos calitriquídeos (Callitrichidae). É endêmico do Brasil.\n\nFaz parte do grupo dos \"saguis do leste Brasileiro\", que são as espécies de calitriquídeos típicos da Mata Atlântica, mas que ocorrem frequentemente no cerrado e caatinga (Grupo Jacchus). Outrora considerado como subespécie de sagui-de-tufo-branco (Callithrix jacchus), hoje é uma espécie separada. Não há um consenso quanto a existência de subespécies, e sagui-de-wied (Callithrix kuhlii) já foi considerada como uma subespécie.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Black-tufted_marmoset_%28sagui-de-tufos-pretos%29.jpg/280px-Black-tufted_marmoset_%28sagui-de-tufos-pretos%29.jpg"
+},
+{
+  "_id": {
+    "$oid": "66635910f378510c90c0e52a"
+  },
+  "commonName": "Iguana-marinha",
+  "scientificName": "Amblyrhynchus cristatus",
+  "description": "A iguana-marinha é o único lagarto do mundo com hábitos marinhos e é uma das muitas extraordinárias espécies que se podem encontrar no arquipélago das Galápagos. Vive em zonas rochosas da beira-mar e alimenta-se de algas que apanha quer na zona de rebentação quer mergulhando junto à costa. Pode passar até uma hora debaixo de água.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Marineiguana03.jpg/800px-Marineiguana03.jpg"
+},
+{
+  "_id": {
+    "$oid": "666359bff378510c90c0e52b"
+  },
+  "commonName": "Tatupeba",
+  "scientificName": "Euphractus sexcinctus",
+  "description": "O tatupeba , também conhecido como papa-defunto, peba, peludo, tatu-cascudo, tatu-de-mão-amarela, tatu-peludo, tatupeva e tatupoi é um tatu da América do Sul encontrado em grande parte do Brasil, norte da Argentina, Paraguai, Uruguai, Bolívia e Suriname. Único membro existente de seu gênero, foi descrito pela primeira vez pelo zoólogo sueco Carlos Lineu em 1758. Tem normalmente entre 40 e 50 centímetros de comprimento da cabeça e do corpo e pesa 3,2 a 6,5 quilogramas (7,1 a 14,3 libras). A carapaça (concha dura no dorso) é de amarelo pálido a marrom avermelhado, marcada por escamas de igual comprimento e escassamente coberta por pelos amarelados a brancos semelhantes a cerdas. Possui seis ou oito cintas de placas móveis e sua cabeça é cônica e achatada. Os pés dianteiros têm cinco dedos distintos, cada um com garras moderadamente desenvolvidas. Tem cerca de 5 subespécies, cada uma com determinadas variações na sua aparência.\n\nOs tatupebas são escavadores eficientes e formam tocas para viver e procurar presas. É alerta e principalmente solitário. Onívoro, se alimenta de insetos, formigas, carniça e material vegetal. Devido à sua visão deficiente, confiam no olfato para detectar presas e predadores. Os nascimentos acontecem ao longo do ano; a gestação dura de 60 a 64 dias, após os quais nasce uma ninhada de um a três. O desmame ocorre em um mês e os juvenis amadurecem por nove meses. Habita savanas, florestas primárias e secundárias, cerrados, matagais e florestas decíduas. A União Internacional para a Conservação da Natureza e dos Recursos Naturais (IUCN) classifica-o como menos preocupante, e não há grandes ameaças à sua sobrevivência. Apesar disso, aparece na lista vermelha da Bahia, sobretudo devido à caça.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Six-banded_armadillo_%28Euphractus_sexcinctus%29.JPG/1024px-Six-banded_armadillo_%28Euphractus_sexcinctus%29.JPG"
+},
+{
+  "_id": {
+    "$oid": "66635a54f378510c90c0e52c"
+  },
+  "commonName": "Tubarão-branco",
+  "scientificName": "Carcharodon carcharias",
+  "description": "O tubarão-branco, tubarão-anequim, cação-anequim ou cação-branco é uma espécie de grande lamniforme que pode ser encontrada nas águas superficiais costeiras de todos os principais oceanos. É notável por seu tamanho, com indivíduos do sexo feminino maiores crescendo até 6,1 metros (20 pés) de comprimento e 1.905 – 2.268 quilos (4.200 – 5.000 libras) de peso na maturidade. No entanto, a maioria é menor; os machos medem 3,4 a 4,0 metros (11 a 13 pés), e as fêmeas medem 4,6 a 4,9 metros (15 a 16 pés) em média.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/White_shark.jpg/800px-White_shark.jpg"
+},
+{
+  "_id": {
+    "$oid": "66635b44f378510c90c0e52d"
+  },
+  "commonName": "Dragão Azul",
+  "scientificName": "Glaucus atlanticus",
+  "description": "Glaucus atlanticus, popularmente conhecido como Dragão Azul, Anjo Azul ou Andorinha do Mar, é uma espécie de lesmas-do-mar pelágicas pertencente ao grupo dos moluscos nudibrânquios da família Glaucidae, sendo a única espécie conhecida do género Glaucus. A espécie está estreitamente aparentada com Glaucilla marginata, outro membro da família Glaucidae.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Glaucus_atlanticus_1_cropped.jpg/800px-Glaucus_atlanticus_1_cropped.jpg"
+},
+{
+  "_id": {
+    "$oid": "66635baff378510c90c0e52e"
+  },
+  "commonName": "Peixe-lua",
+  "scientificName": "Mola mola",
+  "description": "O peixe-lua é uma espécie de peixe ósseo pertencente à família Molidae. Se destaca por sua morfologia, que o difere dos demais peixes. É o peixe ósseo mais pesado do mundo (o mais robusto até hoje encontrado possuía 2,7 toneladas). Embora se acreditava que tinha a mesma toxina que os baiacus, não é venenoso de acordo com pesquisas recentes. Não vive bem em cativeiro.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Nusa_Lembongan_Mola_Mola.jpg/800px-Nusa_Lembongan_Mola_Mola.jpg"
+},
+{
+  "_id": {
+    "$oid": "66635bf7f378510c90c0e52f"
+  },
+  "commonName": "Tubarão-tigre",
+  "scientificName": "Galeocerdo cuvier",
+  "description": "O tubarão-tigre é um tubarão da família dos Carcharhinidae de águas tropicais e subtropicais, encontrado em diferentes ambientes e comum no Nordeste do Brasil. Também é conhecido pelos nomes de cação-jaguara, cação-tintureiro, jaguara, tubarão-jaguara ou tubarão-tintureira.\r\n\r\nSeu nome provém das riscas pretas que apresenta ao longo das costas, que vão desaparecendo à medida que o tubarão envelhece.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Tiger_shark.jpg/800px-Tiger_shark.jpg"
+},
+{
+  "_id": {
+    "$oid": "66635c85f378510c90c0e530"
+  },
+  "commonName": "Arara-azul-grande",
+  "scientificName": "Anodorhynchus hyacinthinus",
+  "description": "A arara-azul-grande (nome científico: Anodorhynchus hyacinthinus), também conhecida popularmente como arara-preta, araraúna, arara-hiacinta, arara-jacinto, araruna ou somente arara-azul, é a maior espécie de arara (tribo dos arinos, Arini) da família dos psitacídeos (Psittacidae) se comparado às outras três espécies de araras-azuis tipicamente sul-americanas — a arara-azul-de-lear (Anodorhynchus leari), a arara-azul-pequena (Anodorhynchus glaucus) e a ararinha-azul (Cyanopsitta spixiii). É nativa do centro e leste da América do Sul, onde ocorre na Bolívia, no Paraguai e no Brasil nas biomas Amazônia, Cerrado e Pantanal.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Arara_Azul_no_Pantanal.jpg/1024px-Arara_Azul_no_Pantanal.jpg"
+},
+{
+  "_id": {
+    "$oid": "66635f44f378510c90c0e531"
+  },
+  "commonName": "Jaguatirica",
+  "scientificName": "Leopardus pardalis",
+  "description": "A jaguatirica , também conhecida como ocelote, é uma espécie de mamífero carnívoro pertencente à família dos felídeos, sendo um dos dez representantes do gênero Leopardus. São reconhecidas dez subespécies, com o gato-maracajá (L. wiedii) sendo a espécie mais próxima da jaguatirica. Ocorre desde o sul dos Estados Unidos até o norte da Argentina, mas já foi extinta em algumas regiões de sua distribuição geográfica. Habita todos os tipos de ambiente ao longo de sua distribuição geográfica, até cerca de 1200 m de altitude.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Ocelot_%28Jaguatirica%29_Zoo_Itatiba.jpg/800px-Ocelot_%28Jaguatirica%29_Zoo_Itatiba.jpg"
+},
+{
+  "_id": {
+    "$oid": "66635fb6f378510c90c0e532"
+  },
+  "commonName": "Urso-polar",
+  "scientificName": "Ursus maritimus",
+  "description": "O urso-polar, também conhecido como urso-branco, é uma espécie de mamífero carnívoro da família Ursidae encontrada no círculo polar Ártico. Ele é o maior carnívoro terrestre conhecido e também o maior urso, juntamente com o urso-de-kodiak, que tem aproximadamente o mesmo tamanho. Embora esteja relacionado com o urso-pardo, esta espécie evoluiu para ocupar um estreito nicho ecológico, com muitas características morfológicas adaptadas para as baixas temperaturas, para se mover sobre neve, gelo e na água, e para caçar focas, que compreende a maior porção de sua dieta.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Polar_Bear_-_Alaska_%28cropped%29.jpg"
+},
+{
+  "_id": {
+    "$oid": "66635ff6f378510c90c0e533"
+  },
+  "commonName": "Urso-de-kodiak",
+  "scientificName": "Ursus arctos middendorffi",
+  "description": "O urso-de-kodiak também conhecido como urso pardo de kodiak ou urso pardo do Alaska é uma subespécie de urso-pardo que habita as ilhas do arquipélago de Kodiak no sudeste do Alasca e ilhas adjacentes. É designado por vezes como urso-gigante-do-alasca devido ao seu grande tamanho, pois trata-se do maior urso pardo e rivaliza com o urso-polar no título de maior carnívoro terrestre.\n\nFisiologicamente, o urso de kodiak é muito semelhante a outras subespécies de ursos pardos, sendo a principal diferença o tamanho, a maioria dos ursos pardos do continente pesam entre 115 e 360 kg, o urso de kodiak, por outro lado geralmente atinge tamanhos de 300 a 600 kg, sendo conhecido indivíduos de até 680 kg. Apesar desta grande variação de tamanho, a dieta e o estilo de vida dos kodiak não é muito diferente do de outros ursos pardos.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2010-kodiak-bear-1.jpg/1024px-2010-kodiak-bear-1.jpg"
+},
+{
+  "_id": {
+    "$oid": "6663607af378510c90c0e534"
+  },
+  "commonName": "Urso-negro-asiático",
+  "scientificName": "Ursus thibetanus",
+  "description": "O Urso-negro-asiático, também conhecido por urso-negro-tibetano, urso-negro-himalaio, urso de colar ou urso-lua, é um urso de tamanho médio, garras afiadas e pelagem negra com uma marca branca ou creme em forma de V no peito. O urso-negro-asiático pesa de 40 a 200 kg, possui de 70 cm a 1 m de altura na cernelha, e de 1,20 a 1,90 metro de comprimento. O primeiro cientista a identificar a espécie foi o explorador português Ricardo Vicente.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Kragenb%C3%A4r.jpg"
+},
+{
+  "_id": {
+    "$oid": "666360c1f378510c90c0e535"
+  },
+  "commonName": "Urso-negro\r",
+  "scientificName": "Ursus americanus",
+  "description": "O urso-negro (Ursus americanus), também conhecido como baribal, é um urso norte-americano, encontrado do Alasca ao Norte do México. Alcança 2,20 m de comprimento, 1,10 m de altura na cernelha e 360 kg de peso. O urso negro geralmente vive cerca de 15 anos, mas alguns podem alcançar até 40 anos. É um bom nadador e pode correr a até 50 km/h. Sua pelagem pode ser de cor negra, marrom, bege ou branca. Algumas subespécies estão ameaçadas de extinção.\r\n\r\nA aparência do urso-negro é a de um animal grande e feroz, no entanto, 70% de sua dieta consiste de material vegetal - frutos, nozes, gramíneas, raízes e seiva de árvores. Também se alimenta de carne, geralmente de pequenos mamíferos e peixes, raramente se alimenta de grandes animais.[5] Gosta de vasculhar os depósitos de resíduos do homem.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/01_Schwarzb%C3%A4r.jpg"
+},
+{
+  "_id": {
+    "$oid": "666361a0f378510c90c0e536"
+  },
+  "commonName": "Cavalo-marinho",
+  "scientificName": "Hippocampus",
+  "description": "Hippocampus é um gênero de peixes ósseos, pertencente à família Syngnathidae, de águas marinhas temperadas e tropicais que engloba as espécies conhecidas pelo nome comum de cavalo-marinho.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Hippocampus.jpg/800px-Hippocampus.jpg"
+},
+{
+  "_id": {
+    "$oid": "66636499f378510c90c0e537"
+  },
+  "commonName": "Vaquita",
+  "scientificName": "Phocoena sinus",
+  "description": "A vaquita-marinha é uma espécie rara de toninha endêmica do norte do Golfo da Califórnia. É também conhecida como marsuíno-do-golfo-da-califórnia, toninha-do-golfo, boto-do-pacífico e cochito. Como o baiji (Lipotes vexillifer) foi extinto em 2006, a vaquita assumiu o título de cetáceo mais ameaçado do mundo. Está listado como criticamente ameaçado desde 1996. A população foi estimada em 600 em 1997, abaixo de 100 em 2014, aproximadamente 60 em 2015, em torno de 30 em novembro de 2016, e cerca de 12 em março de 2018. Uma estimativa divulgada em março de 2019, com base em dados acústicos coletados no verão de 2018, é que existem no máximo 22 e um mínimo de 6 vaquitas vivas, com a IUCN estimando cerca de 10 indivíduos.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Vaquita6_Olson_NOAA.jpg"
+},
+{
+  "_id": {
+    "$oid": "66636547f378510c90c0e538"
+  },
+  "commonName": "Baiacu",
+  "scientificName": "Tetraodontidae",
+  "description": "Baiacu, baiagu, sapo-do-mar, peixe-balão ou lola (ainda que este termo se aplique mais ao gênero zoológico Takifugu) são as designações populares para diversos peixes da ordem dos Tetraodontiformes, comuns na fauna fluvial da América do Sul e, mais especificamente, do Brasil. O termo é utilizado, na linguagem corrente, para designar, especificamente, as espécies dessa ordem com a propriedade de inchar o corpo quando se sentem ameaçados por um predador ou outro fator. O baiacu pode ser letalmente venenoso para humanos devido à sua Tetrodotoxina, o que significa que deve ser cuidadosamente preparado para remover partes tóxicas e evitar a contaminação da carne.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Fugu_in_Tank.jpg"
+},
+{
+  "_id": {
+    "$oid": "666365a0f378510c90c0e539"
+  },
+  "commonName": "Peixe-boi",
+  "scientificName": "Trichechus manatus",
+  "description": "Os peixes-bois, vacas-marinhas, manatins ou lamantins, constituem uma designação comum aos mamíferos aquáticos, sirênios, como os dugongos, mas da família dos triquequídeos . Possuem um grande corpo arredondado, com aspecto semelhante ao das morsas. O peixe-boi-marinho pode medir até quatro metros e pesar 800 quilos, enquanto o peixe-boi-da-amazônia pode chegar ate 2,5 metros e pode pesar até 300 quilos.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Hpim0279.jpg/800px-Hpim0279.jpg"
+},
+{
+  "_id": {
+    "$oid": "66636619f378510c90c0e53a"
+  },
+  "commonName": "Chimpanzé-comum",
+  "scientificName": "Pan troglodytes",
+  "description": "O chimpanzé-comum, também conhecido como chimpanzé-robusto, é uma das duas espécies de chimpanzés que vivem no continente africano, juntamente com o chimpanzé-pigmeu (bonobo). Evidências de fósseis e sequenciamento de DNA mostram que essas duas espécies são os parentes vivos mais próximos dos humanos. O chimpanzé-comum possui quatro subespécies confirmadas e uma quinta subespécie proposta.\n\nO chimpanzé-comum é coberto por pelos grossos e pretos, mas tem o rosto, dedos, palmas das mãos e solas dos pés desprovidos de pelos. É maior e mais robusto que o bonobo, com machos pesando 40-70 kg e fêmeas pesando 27-50 kg, medindo de 100 a 150 cm. Seu período de gestação é de oito meses, muito semelhante à dos humanos que é de 9 meses. O bebê é desmamado por volta dos três anos de idade, mas geralmente mantém um relacionamento próximo com sua mãe por mais alguns anos, atingindo a puberdade entre os 8 e 10 anos.\n\nOs chimpanzés-comuns vivem em grupos que variam de entre 15 a 150 indivíduos, embora viajam em grupos menores durante o dia. A espécie vive em uma hierarquia patriarcal e rigorosa, o que significa que as disputas geralmente podem ser resolvidas sem a necessidade de violência. Quase todas as populações de chimpanzés foram registadas utilizando ferramentas, modificando gravetos, pedras, relva, folhas e usando-os para adquirir mel, cupins, formigas, nozes e água. A espécie também foi encontrada utilizando gravetos afiados como uma lança para caçar pequenos mamíferos.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/013_Alpha_male_chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg/1024px-013_Alpha_male_chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg"
+},
+{
+  "_id": {
+    "$oid": "66636718f378510c90c0e53b"
+  },
+  "commonName": "Pelicano-americano",
+  "scientificName": "Pelecanus erythrorhynchos",
+  "description": "O Pelicano-americano é uma ave aquática de grande porte do grupo Pelecaniformes encontrada nos Estados Unidos, México e em países da América Central.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Pelecanus_erythrorhynchos_at_Las_Gallinas_Wildlife_Ponds.jpg/800px-Pelecanus_erythrorhynchos_at_Las_Gallinas_Wildlife_Ponds.jpg"
+},
+{
+  "_id": {
+    "$oid": "6663675df378510c90c0e53c"
+  },
+  "commonName": "Coala",
+  "scientificName": "Phascolarctos cinereus",
+  "description": "O coala é um mamífero marsupial herbívoro arbóreo nativo da Austrália. É o único representante existente da família Phascolarctidae e seus parentes vivos mais próximos são os vombates, que são membros da família Vombatidae. O coala é encontrado em áreas costeiras das regiões leste e sul do continente, habitando Queensland, Nova Gales do Sul, Vitória e Austrália do Sul. É facilmente reconhecível por seu corpo robusto e sem cauda, uma cabeça grande com orelhas redondas e macias, e um nariz grande em forma de colher. O coala tem um comprimento de corpo de 60 a 85 cm (24 a 33 pol) e pesa de 4 a 15 kg (9 a 33 lb). A cor do pelo varia de cinza prateado a marrom chocolate. Os coalas das populações do norte são tipicamente menores e de cor mais clara do que seus pares localizados mais ao sul. Essas populações possivelmente são subespécies separadas, mas isso é contestado.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Koala_climbing_tree.jpg/800px-Koala_climbing_tree.jpg"
+},
+{
+  "_id": {
+    "$oid": "666367a6f378510c90c0e53d"
+  },
+  "commonName": "Suricato",
+  "scientificName": "Suricata suricatta",
+  "description": "O suricata , também conhecida como suricate ou suricato, é uma espécie de mamífero da família Herpestidae. É a única espécie descrita para o gênero Suricata. Pode ser encontrada na África do Sul, Botsuana, Namíbia e Angola. Estes animais têm cerca de meio metro de comprimento (incluindo a cauda), em média 730 gramas de peso, e pelagem acastanhada. Os suricatas alimentam-se de pequenos artrópodes, principalmente escaravelhos e aranhas. Têm garras afiadas nas patas, que lhes permitem escavar a superfície do chão e tem dentes afiados para penetrar nas carapaças quitinosas das suas presas. Outra característica distinta é a sua capacidade de se elevarem nas patas traseiras, utilizando a cauda como terceiro apoio.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Meerkat_feb_09.jpg/1024px-Meerkat_feb_09.jpg"
+},
+{
+  "_id": {
+    "$oid": "66636877f378510c90c0e53f"
+  },
+  "commonName": "Lêmure-de-cauda-anelada",
+  "scientificName": "Lemur catta",
+  "description": "O lêmure-de-cauda-anelada é um primata estrepsirrino de grandes dimensões e o lêmure mais reconhecível devido à sua cauda anelada de cores preta e branca. Pertence à família Lemuridae, uma das quatro famílias de lêmures. É o único membro do género Lemur. Tal como os outros lêmures é endêmico da ilha de Madagascar. Denominado localmente por hira (malgaxe) ou maki (francês e malgaxe), habita florestas de galeria e zonas arbustivas de espinhosas, nas regiões mais a Sul da ilha. É herbívoro e é o mais terrestre dos lêmures. O animal é diurno, estando ativo exclusivamente em horas com luz de dia.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Ring_tailed_lemur_edin_zoo.JPG"
+},
+{
+  "_id": {
+    "$oid": "666368e3f378510c90c0e540"
+  },
+  "commonName": "Feneco",
+  "scientificName": "Vulpes zerda",
+  "description": "O feneco ou raposa-do-deserto, é uma pequena raposa crepuscular nativa do deserto do Saara e da Península do Sinai. É o menor de todos os canídeos e apresenta inúmeras adaptações ao clima desértico, como seu corpo pequeno, patas peludas e orelhas excepcionalmente grandes, que são utilizadas para regular o calor. Sua pelagem e suas funções renais também são adaptadas às altas temperaturas e à escassez de água. Possui uma audição sensível para ouvir presas se movendo no subsolo. É um animal onívoro, se alimentando de invertebrados e pequenos vertebrados, bem como de frutas e tubérculos.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Fennec_Fox.jpg"
+},
+{
+  "_id": {
+    "$oid": "66636938f378510c90c0e541"
+  },
+  "commonName": "Preguiça-comum",
+  "scientificName": "Bradypus variegatus",
+  "description": "A preguiça-comum, preguiça-marmota, preguiça-de-bentinho, preguiça-de-óculos, preguiça-carneira, preguiça-de-garganta-marrom ou tauta (em língua kwazá) é uma espécie de brádipo ou preguiça-de-três-dedos encontrada na região neotropical da América Central e do Sul. É a mais comum das quatro espécies de preguiça-de-três-dedos e é encontrada nas florestas da América do Sul e Central.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Bradypus.jpg/800px-Bradypus.jpg"
+},
+{
+  "_id": {
+    "$oid": "666369a5f378510c90c0e542"
+  },
+  "commonName": "Castor-americano",
+  "scientificName": "Castor canadensis",
+  "description": "O castor-americano é uma das duas espécies de castores. É nativo da América do Norte, mas foi introduzido na Escandinávia e Patagônia.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/American_Beaver.jpg"
+},
+{
+  "_id": {
+    "$oid": "66636a5ff378510c90c0e543"
+  },
+  "commonName": "Carpa-comum",
+  "scientificName": "Cyprinus carpio",
+  "description": "Carpa-comum é um peixe cipriniforme da família dos ciprinídeos (Cyprinidae), de coloração cinza prateado. Está difundida por águas eutróficas em lagos e grandes rios na Europa e Ásia. As populações selvagens nativas são consideradas vulneráveis à extinção pela União Internacional para a Conservação da Natureza (UICN), mas a espécie também foi domesticada e introduzida (veja aquacultura) em ambientes em todo o mundo, e muitas vezes é considerada espécie invasora destrutiva. Está na trigésima primeira posição da lista 100 das espécies exóticas invasoras mais daninhas do mundo e está na Lista de espécies invasoras no Brasil.",
+  "imageUrl": "https://img.cienciaviva.pt/public/pt.cienciaviva.io/wwwcentros/2858_20200316183830_large.jpg?w=600"
+},
+{
+  "_id": {
+    "$oid": "66636b39f378510c90c0e544"
+  },
+  "commonName": "Peixe-palhaço",
+  "scientificName": "Amphiprioninae",
+  "description": "Peixe-palhaço ou peixe-anêmona são peixes da subfamília Amphiprioninae da família Pomacentridae. São reconhecidas trinta espécies de peixes-palhaço: uma no gênero Premnas, enquanto as demais estão no gênero Amphiprion. Na natureza, todos eles formam mutualismos simbióticos com anêmonas do mar.",
+  "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhPNh_r54561HfO4WhV7jhZmQO1tv0sY8I7o3abQBykKWlutIs"
+},
+{
+  "_id": {
+    "$oid": "66636b8cf378510c90c0e545"
+  },
+  "commonName": "Leão",
+  "scientificName": "Panthera leo",
+  "description": "O leão [feminino: leoa] é uma espécie de mamífero carnívoro do gênero Panthera e da família Felidae. A espécie é atualmente encontrada na África subsaariana e na Ásia, com uma única população remanescente em perigo, no Parque Nacional da Floresta de Gir, Gujarat, Índia. Foi extinto na África do Norte e no Sudoeste Asiático em tempos históricos, e até o Pleistoceno Superior, há cerca de 10 000 anos, era o mais difundido grande mamífero terrestre depois dos humanos, sendo encontrado na maior parte da África, em muito da Eurásia, da Europa Ocidental à Índia, e na América, do Yukon ao México. É um dos quatro grandes felinos, com alguns machos excedendo 250 quilogramas em peso, sendo o segundo maior felino recente depois do tigre.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lion_waiting_in_Namibia.jpg/800px-Lion_waiting_in_Namibia.jpg"
+},
+{
+  "_id": {
+    "$oid": "66639a80ba8049243729fb54"
+  },
+  "commonName": "Jiboia",
+  "scientificName": "Boa constrictor",
+  "description": "Boa é um gênero de serpentes da família Boidae. Podem ser encontradas na América do Sul e Central, e em Madagascar e Reunião",
+  "imageUrl": "https://static.mundoeducacao.uol.com.br/mundoeducacao/conteudo_legenda/004d609dfd142645c3cfeb215cb310a9.jpg"
+},
+{
+  "_id": {
+    "$oid": "66639af0ba8049243729fb55"
+  },
+  "commonName": "Morcego",
+  "scientificName": "Chiroptera",
+  "description": "O morcego é um animal mamífero da ordem Chiroptera, cujos integrantes apresentam uma fina membrana de pele entre os dedos, a qual se estende até as patas e se conecta às laterais do corpo, formando as asas. Distinguem-se das aves, pois estas possuem penas suportadas por ossos.",
+  "imageUrl": "https://static.biologianet.com/2020/05/mocego-voando.jpg"
+},
+{
+  "_id": {
+    "$oid": "66639b627b4bb9af710ec772"
+  },
+  "commonName": "Guaxinim",
+  "scientificName": "Procyon lotor",
+  "description": "O guaxinim norte-americano, por vezes chamado rato-lavadeiro, é um mamífero da família dos procionídeos bastante parecido com o Procyon cancrivorus. Estes animais são encontrados nas Américas e são conhecidos também pelo nome estadunidense raccoon.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/0_Procyon_lotor_-_Raton_laveur_commun_%281%29.JPG/1024px-0_Procyon_lotor_-_Raton_laveur_commun_%281%29.JPG"
+},
+{
+  "_id": {
+    "$oid": "66639baa7b4bb9af710ec773"
+  },
+  "commonName": "Ornitorrinco",
+  "scientificName": "Ornithorhynchus anatinus",
+  "description": "O ornitorrinco é um mamífero semiaquático natural da Austrália e Tasmânia. É o único representante vivo da família Ornithorhynchidae, e a única espécie do gênero Ornithorhynchus. Juntamente com as equidnas, formam o grupo dos monotremados, os únicos mamíferos ovíparos existentes.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ornithorhynchus.jpg/800px-Ornithorhynchus.jpg"
+},
+{
+  "_id": {
+    "$oid": "66639bf57b4bb9af710ec774"
+  },
+  "commonName": "Equidnas",
+  "scientificName": "Tachyglossidae",
+  "description": "Os taquiglossídeos formam uma família de monotremados, conhecidos popularmente como equidnas ou zaglossos. Vivem na Austrália e na Nova Guiné. As quatro espécies existentes de Equidnas e o Ornitorrinco são os únicos mamíferos vivos que põem ovos e os únicos sobreviventes da família de monotremados.",
+  "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQB8i4j5qJzU9NcyLene5A20ZyDCXqkNOcW_7CkFMZsszXbWyiy"
+},
+{
+  "_id": {
+    "$oid": "66639c337b4bb9af710ec775"
+  },
+  "commonName": "Cabra",
+  "scientificName": "Capra aegagrus hircus",
+  "description": "A cabra é uma espécie domesticada herbívora de capríneo pertencente ao gênero Capra, tipicamente mantida como gado. Foi domesticada a partir da cabra-selvagem do sudoeste da Ásia e da Europa Oriental e é uma subespécie.",
+  "imageUrl": "https://www.sciencefriday.com/wp-content/uploads/2022/09/goat-featured.jpg"
+},
+{
+  "_id": {
+    "$oid": "66639c727b4bb9af710ec776"
+  },
+  "commonName": "Ovelha",
+  "scientificName": "Ovis aries",
+  "description": "A ovelha é um mamífero ruminante bovídeo da sub-família Caprinae. O carneiro é o macho da ovelha e os juvenis são cordeiros, anhos ou borregos. É um animal de enorme importância econômica como fonte de carne, laticínios, lã e couro.",
+  "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXDzCuZGQTUvOp2Sj7o4cHjvL-U-Zl062lfIY9DFUDK7yRLfir"
+},
+{
+  "_id": {
+    "$oid": "66639ce37b4bb9af710ec777"
+  },
+  "commonName": "Hipopótamo-comum",
+  "scientificName": "Hippopotamus amphibius",
+  "description": "O hipopótamo-comum ou hipopótamo-do-nilo é um mamífero herbívoro de grande porte da África subsariana e uma das duas únicas espécies não extintas da família Hippopotamidae, sendo a outra o hipopótamo-pigmeu. O seu nome provém do grego antigo, significando \"cavalo do rio\".",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Hippopotamus_-_04.jpg/1024px-Hippopotamus_-_04.jpg"
+},
+{
+  "_id": {
+    "$oid": "66639d197b4bb9af710ec778"
+  },
+  "commonName": "Hipopótamo-pigmeu",
+  "scientificName": "Choeropsis liberiensis",
+  "description": "O hipopótamo-pigmeu é uma espécie de mamífero da família Hippopotamidae, nativo das florestas e pântanos da África Ocidental. É uma das duas espécies viventes da família dos hipopótamos, e a única espécie atual do gênero Choeropsis.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bristol.zoo.pygmy.hippo.arp.jpg/800px-Bristol.zoo.pygmy.hippo.arp.jpg"
+},
+{
+  "_id": {
+    "$oid": "66639d8a7b4bb9af710ec779"
+  },
+  "commonName": "Elefante-pigmeu-de-bornéu",
+  "scientificName": "Elephas maximus borneensis",
+  "description": "O elefante-pigmeu-de-bornéu é uma subespécie de elefante-asiático nativa de uma pequena área no nordeste da Ilha de Bornéu. Sua classificação ainda é motivo de discussão, mas evidências morfológicas e genéticas em um estudo de 2003 sugerem uma diferenciação das outras subespécies.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Borneo-elephant-PLoS_Biology.jpg"
+},
+{
+  "_id": {
+    "$oid": "66639dd87b4bb9af710ec77a"
+  },
+  "commonName": "Caracol",
+  "scientificName": "Stylommatophora",
+  "description": "Caracóis são os moluscos gastrópodes terrestres de concha espiralada calcária, pertencentes à subordem Stylommatophora, que também inclui as lesmas. São animais com ampla distribuição ambiental e geográfica. Respiram através de um poro respiratório.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Snail_Shell_in_Rock.jpg/800px-Snail_Shell_in_Rock.jpg"
+},
+{
+  "_id": {
+    "$oid": "66639e3d7b4bb9af710ec77b"
+  },
+  "commonName": "Piranha-vermelha",
+  "scientificName": "Pygocentrus nattereri",
+  "description": "A piranha-vermelha é uma espécie de peixe com preferência alimentar carnívora, de água doce da família Serrasalmidae, Nativa, não endêmica e epicontinental, possuem coloração avermelhada, com cabeça e dorso acinzentados e alguns artigos chegam a registrar indivíduos de até 50 cm.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Piranha_Luc_Viatour.jpg/1024px-Piranha_Luc_Viatour.jpg"
+},
+{
+  "_id": {
+    "$oid": "66639eac7b4bb9af710ec77c"
+  },
+  "commonName": "Tilápia",
+  "scientificName": "Tilapia rendalli",
+  "description": "Tilápia é o nome comum dado a várias espécies de peixes ciclídeos de água doce pertencentes à subfamília Pseudocrocidolita e em particular ao gênero Tilápia.",
+  "imageUrl": "https://i.natgeofe.com/n/8b88d6fe-7866-4e47-92e4-f8ca079731cf/85499.jpg?w=1280&h=853"
+},
+{
+  "_id": {
+    "$oid": "66639f1a7b4bb9af710ec77d"
+  },
+  "commonName": "Crocodilo-do-nilo\r",
+  "scientificName": "Crocodylus niloticus",
+  "description": "O crocodilo-do-nilo é uma espécie de crocodilo africano, cuja distribuição se estende desde a bacia do Nilo às regiões a sul do deserto do Saara a Madagáscar e ao arquipélago das Comores. Esta espécie, é uma das maiores do mundo, é bastante perigosa para o Homem e foi venerada como divindade no Antigo Egito.",
+  "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSAIk9bz-sYpxyzfpB6j4ovfzyqpUqBCaPi2WvebsuJQKbgr6dE"
+},
+{
+  "_id": {
+    "$oid": "66639f8a7b4bb9af710ec77e"
+  },
+  "commonName": "Tambaqui",
+  "scientificName": "Colossoma macropomum",
+  "description": "O tambaqui é um grande peixe de água doce da família Serrasalmidae. É o único membro do gênero Colossoma, tendo maior parentesco com os membros do gênero Piaractus, a qual pertence a Pirapitinga.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Pacu_shedd.jpg/800px-Pacu_shedd.jpg"
+},
+{
+  "_id": {
+    "$oid": "6663a0137b4bb9af710ec77f"
+  },
+  "commonName": "Pirarucu",
+  "scientificName": "Arapaima gigas",
+  "description": "O pirarucu é um dos maiores peixes de águas doces fluviais e lacustres do Brasil. Seu nome se originou de dois termos tupis: pirá, \"peixe\" e urucum, \"vermelho\", devido à coloração de sua cauda.",
+  "imageUrl": "https://agriconline.com.br/portal/wp-content/uploads/2023/01/pirarucu.jpg"
+},
+{
+  "_id": {
+    "$oid": "6663a0897b4bb9af710ec780"
+  },
+  "commonName": "Sapo do Rio Colorado",
+  "scientificName": "Bufo alvarius",
+  "description": "O Bufo alvarius ou Sapo do Rio Colorado, também conhecido como o Sapo do Deserto de Sonora, é um sapo que secreta substâncias com propriedades psicoativas, achado no sudoeste dos Estados Unidos e no norte do México. A pele e o veneno do Bufo alvarius contém 5-MeO-DMT e bufotenina. ",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bufo-alvarius-coloradokr%C3%B6te.jpg/1024px-Bufo-alvarius-coloradokr%C3%B6te.jpg"
+},
+{
+  "_id": {
+    "$oid": "6663a0eb7b4bb9af710ec781"
+  },
+  "commonName": "Sapo-comum-africano",
+  "scientificName": "Bufo regularis",
+  "description": "Sclerophrys regularis, conhecido popularmente como sapo-comum-africano, sapo-egípcio, sapo-africano-saltitante e sapo-de-reuss, é uma espécie de sapo da família Bufonidae.",
+  "imageUrl": "https://observation.org/media/photo/19147507.jpg"
+},
+{
+  "_id": {
+    "$oid": "6663a1757b4bb9af710ec782"
+  },
+  "commonName": "Aranha-golias-comedora-de-pássaros\r",
+  "scientificName": "Theraphosa blondi",
+  "description": "A aranha-golias-comedora-de-pássaros, também conhecida como aranha-golias ou tarântula-golias, é uma espécie de tarântula da família Theraphosidae ou \" Infernais Venenosos\". É considerada o maior aracnídeo do mundo, em massa corporal.",
+  "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBXYMsVmNd80UNm2MdSvbOtVDSeO84OCSjO7s4JwEDhZSADXdw"
+},
+{
+  "_id": {
+    "$oid": "6663a1ce7b4bb9af710ec783"
+  },
+  "commonName": "Aranha-caranguejeira\r",
+  "scientificName": "Oligoxystre diamantinensis",
+  "description": "Dolichothele diamantinensis também conhecida como tarântula anã azul brasileira, é uma tarântula que foi descrita pela primeira vez em 2009 por Rogério Bertani e Thiago dos Santos. Como seu nome comum diz, é encontrada no Brasil e é uma tarântula terrestre. Foi originalmente descrito como Oligoxystre diamantinensis.",
+  "imageUrl": "https://s1.static.brasilescola.uol.com.br/be/2023/03/vista-aproximada-de-uma-aranha-caranguejeira-sobre-uma-pedra.jpg"
+},
+{
+  "_id": {
+    "$oid": "6663a20e7b4bb9af710ec784"
+  },
+  "commonName": "Viúva-negra",
+  "scientificName": "Latrodectus",
+  "description": "Latrodectus, conhecido pelo nome comum de aranhas-pretas ou viúvas-negras, é um género de aranhas pertencente à família Theridiidae, que inclui 32 espécies confirmadas. O nome comum viúva negra deriva da maioria das espécies deste género praticar o canibalismo sexual, sendo que a fêmea devora o macho após a cópula.",
+  "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnJTZXdLbzG0PjYNhbkhbmccqDja_8J4Jq-PDPs_1L5SwxgRu1"
+},
+{
+  "_id": {
+    "$oid": "6663a25a7b4bb9af710ec785"
+  },
+  "commonName": "Beija-flor",
+  "scientificName": "Trochilidae",
+  "description": "Os beija-flores, também denominados colibris, são termos comuns que se referem à qualquer uma de 362 espécies classificadas dentro de 113 gêneros reconhecidos, e se encontrando distribuídos desde o sul do Alasca ao extremo sul da Patagônia, no arquipélago da Terra do Fogo.",
+  "imageUrl": "https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcRPyuQ4HWWWYKrD3HP2jWnd-MPLZtRNZRZtYtSXGPlXaBX6qVh-w5CnUWsyYBvEP5RO"
+},
+{
+  "_id": {
+    "$oid": "6663a2a77b4bb9af710ec786"
+  },
+  "commonName": "Pombo-comum",
+  "scientificName": "Columba livia",
+  "description": "Columba livia, conhecida pelos nomes comuns de pombo-comum, pombo-doméstico ou pombo-das-rochas ou simplesmente pombo, é uma espécie de ave da família Columbidae. Verifica-se grande variação no padrão de cores desse animal, havendo exemplares brancos, marrons, manchados e acinzentados.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Paloma_brav%C3%ADa_%28Columba_livia%29%2C_Palacio_de_Nymphenburg%2C_M%C3%BAnich%2C_Alemania01.JPG/800px-Paloma_brav%C3%ADa_%28Columba_livia%29%2C_Palacio_de_Nymphenburg%2C_M%C3%BAnich%2C_Alemania01.JPG"
+},
+{
+  "_id": {
+    "$oid": "6663a3857b4bb9af710ec787"
+  },
+  "commonName": "Pato-real",
+  "scientificName": "Anas platyrhynchos",
+  "description": "O pato-real ou marreco-selvagem é uma ave anseriforme que habita áreas temperadas e subtropicais da América do Norte, Europa e Ásia. A espécie tem forte dimorfismo sexual, tendo os machos uma cabeça de cor verde iridescente e asas e barriga cinzenta, enquanto que as fêmeas têm uma plumagem castanha salpicada.",
+  "imageUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQEDZ1LNyhjwz-99QhpCRaWojHr2DNdz0LNPlAr6ecCB7MrVatJ"
+},
+{
+  "_id": {
+    "$oid": "6663a3c57b4bb9af710ec788"
+  },
+  "commonName": "Ganso-do-canadá",
+  "scientificName": "Branta canadensis",
+  "description": "O ganso-do-canadá ou ganso-canadense é uma ave anseriforme da família Anatidae, típica da América do Norte. A espécie nidifica no Canadá e Estados Unidos da América, numa grande variedade de habitats perto de massas de água. Os Grandes Lagos suportam um grande número de gansos-do-canadá.",
+  "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR437KYozenIOiAueiNm7Halg9klgtRM9fZ3bcTMXOY68GSnpDM"
+},
+{
+  "_id": {
+    "$oid": "6663a4c37b4bb9af710ec789"
+  },
+  "commonName": "Ganso-de-faces-brancas",
+  "scientificName": "Branta leucopsis",
+  "description": "O ganso-de-faces-brancas, ganso-marisco ou bernaca é uma ave da família Anatidae. É parecido com o ganso-do-canadá, distinguindo-se pelo dorso escuro e pelos flancos cinzentos. Este ganso nidifica nas regiões árcticas e inverna nas regiões temperadas da Europa, principalmente no Reino Unido e nos Países Baixos.",
+  "imageUrl": "https://nature.guide/cdn/photos/large/0a6efc99-165c-408d-a863-3995fc4f1a4f.jpg"
+},
+{
+  "_id": {
+    "$oid": "6663a5027b4bb9af710ec78a"
+  },
+  "commonName": "Alce",
+  "scientificName": "Alces alces",
+  "description": "O alce é um cervídeo, o maior dos cervos, podendo atingir mais de 2 metros de altura ao nível das escápulas e pesar mais de 450 kg sendo que os idosos podem ultrapassar aos 500 kg.",
+  "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZsaZH66Ks30L6T-qcOg8DekxYmNmUYibjzLCJ3ON-wby7iroI"
+},
+{
+  "_id": {
+    "$oid": "6663a5467b4bb9af710ec78b"
+  },
+  "commonName": "Tubarão-martelo",
+  "scientificName": "Sphyrna",
+  "description": "O tubarão-martelo é um gênero de tubarão, característico pelas projeções existentes em ambos os lados da cabeça, onde se localizam os olhos e as narinas. O tubarão-martelo é um predador que consome peixes, cefalópodes, raias e outros tubarões.",
+  "imageUrl": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTtFQGSiridUSZLIYICWFizLVDHbVyKI4QIlEuoIYoXifG8IsqA_vxmdqbrNTlHzaoF6j5mMA0QPMKha2U"
+},
+{
+  "_id": {
+    "$oid": "6663a5777b4bb9af710ec78c"
+  },
+  "commonName": "Tubarão-baleia\r",
+  "scientificName": "Rhincodon typus",
+  "description": "O tubarão-baleia é uma espécie de tubarão filtrador da ordem dos orectolobiformes e a maior espécie de peixe existente conhecida. O maior indivíduo confirmado tinha um comprimento de 18,8 metros. O tubarão-baleia detém muitos recordes de tamanho no reino animal, sendo de longe o maior vertebrado não mamífero vivo.",
+  "imageUrl": "https://www.edgeofexistence.org/wp-content/uploads/2018/11/Rhincodon-typus_shutterstock_485405227-1000x667.jpg"
+},
+{
+  "_id": {
+    "$oid": "6663a5bd7b4bb9af710ec78d"
+  },
+  "commonName": "Tartaruga-marinha",
+  "scientificName": "Chelonioidea",
+  "description": "Tartaruga-marinha é a família da ordem das tartarugas que inclui as espécies que habitam mares tropicais e subtropicais em todo o mundo. O grupo é constituído por seis gêneros e sete espécies, todas elas ameaçadas de extinção.",
+  "imageUrl": "https://mauikayakadventures.com/wp-content/uploads/P7020174-hess-1030x773.jpg"
+},
+{
+  "_id": {
+    "$oid": "6663a6557b4bb9af710ec78e"
+  },
+  "commonName": "Galinha",
+  "scientificName": "Gallus gallus domesticus",
+  "description": "Galo e Galinha são respectivamente, macho e fêmea da subespécie doméstica da espécie Gallus gallus. São aves da família dos fasianídeos e da ordem dos galiformes. Quando nascem, são chamados de \"pintinhos\", na fase juvenil são chamados de \"frangos\" ou \"frangas\".",
+  "imageUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShaHoZCwsYBdz3_IZS1uZSs_yOXHieQDYSJXxvwwgot7C4CA97"
+},
+{
+  "_id": {
+    "$oid": "6663a6b57b4bb9af710ec78f"
+  },
+  "commonName": "Gavião-carijó\r",
+  "scientificName": "Rupornis magnirostris",
+  "description": "O gavião-carijó, também conhecido pelos nomes de anajé, gavião-indaié, inajé, ripino, indaié, gavião-pega-pinto e pega-pinto, é um gavião da família dos acipitrídeos, encontrado em diferentes ambientes, ocorrendo do México à Argentina e em todo o Brasil.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Buteo_magnirostris_-Goias_-Brazil-8.jpg/800px-Buteo_magnirostris_-Goias_-Brazil-8.jpg"
+},
+{
+  "_id": {
+    "$oid": "6663a70a7b4bb9af710ec790"
+  },
+  "commonName": "Anta-brasileira",
+  "scientificName": "Tapirus terrestris",
+  "description": "A anta-brasileira ou simplesmente anta, também conhecida por tapir, é um mamífero perissodáctilo da família dos tapirídeos e gênero Tapirus. Ocorre desde o sul da Venezuela até o norte da Argentina, em áreas abertas ou florestas próximas a cursos d'água, com abundância de palmeiras.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/South_American_tapir_%28Tapirus_terrestris%29.JPG/1024px-South_American_tapir_%28Tapirus_terrestris%29.JPG"
+},
+{
+  "_id": {
+    "$oid": "6663a7617b4bb9af710ec791"
+  },
+  "commonName": "Albatroz",
+  "scientificName": "Diomedeidae",
+  "description": "Os albatrozes, incluindo os piaus, da família biológica dos diomedeídeos, são aves marinhas de grandes dimensões que, em conjunto com os procelarídeos, painhos e petréis-mergulhadores, formam a ordem dos Procellariiformes ou Tubinares.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Short_tailed_albatross.jpg"
+},
+{
+  "_id": {
+    "$oid": "6663a79a7b4bb9af710ec792"
+  },
+  "commonName": "Jamanta\r",
+  "scientificName": "Mobula birostris",
+  "description": "A jamanta, também conhecida como manta, maroma, morcego-do-mar, peixe-diabo, raia-diabo ou juneco, é uma espécie de peixes cartilagíneos pelágicos, oceânicos da família Myliobathidae e a maior espécie actual de raias.",
+  "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrXCwZl0EXX2mHiyOzjcgx5j-JYqrDPDJD_wshWxka9BbhlHoD"
+},
+{
+  "_id": {
+    "$oid": "6663a7e47b4bb9af710ec793"
+  },
+  "commonName": "Abelha-europeia\r",
+  "scientificName": "Apis mellifera",
+  "description": "A abelha-europeia é uma abelha social, de origem europeia, cujas obreiras medem de 12 mm a 13 mm de comprimento e apresentam pelos do tórax mais escuros. Também é chamada abelha-alemã, abelha-comum, abelha-da-Europa, abelha-de-mel, abelha-doméstica, abelha-do-reino, abelha-escura, abelha-Europa, abelha-preta e oropa.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Apis_mellifera_-_Brassica_napus_-_Valingu.jpg/800px-Apis_mellifera_-_Brassica_napus_-_Valingu.jpg"
+},
+{
+  "_id": {
+    "$oid": "6663a84d7b4bb9af710ec794"
+  },
+  "commonName": "Canguru-vermelho",
+  "scientificName": "Macropus rufus",
+  "description": "O canguru-vermelho, é o maior e mais conhecido de todos os cangurus, o maior mamífero nativo da Austrália, e o maior marsupial sobrevivente.",
+  "imageUrl": "https://www.billabongsanctuary.com.au/wp-content/uploads/2023/07/Red-Kangaroo-2-885x1200.jpg"
+},
+{
+  "_id": {
+    "$oid": "6663a88f7b4bb9af710ec795"
+  },
+  "commonName": "Gado bovino",
+  "scientificName": "Bos taurus",
+  "description": "Gado-bovino-doméstico é uma espécie de bovino do gênero Bos e da ordem Artiodactyla. É um mamífero ungulado e apresenta dois dígitos em cada membro. O macho da espécie recebe o nome de boi, ou touro, enquanto que a fêmea é conhecida por vaca e o animal jovem por bezerro, e depois novilho.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Cow_female_black_white.jpg/1024px-Cow_female_black_white.jpg"
+},
+{
+  "_id": {
+    "$oid": "6663a8ba7b4bb9af710ec796"
+  },
+  "commonName": "Porco Doméstico",
+  "scientificName": "Sus scrofa domesticus",
+  "description": "O porco doméstico, ou simplesmente porco, é um mamífero bunodonte não ruminante da família dos suidae, gênero sus. A denominação para as fêmeas nulíparas é marrã e para as multíparas é matriz, para os porcos machos o castrado é chamado de rufião e o inteiro é o cachaço, já os filhotes a denominação é leitão/leitoa.",
+  "imageUrl": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcS8piVHY8Mf7p62OkwcgqmZjlWI8WS58uafqox6EPKAt6OE8IWu3Aow6W-iQHJJLJ09"
+},
+{
+  "_id": {
+    "$oid": "6663a9207b4bb9af710ec797"
+  },
+  "commonName": "Camaleão",
+  "scientificName": "Chamaeleonidae",
+  "description": "Camaleão refere-se a todos os répteis pertencentes à família Chamaeleonidae. É uma das mais conhecidas famílias de lagartos, distribuídos na África, sul da Europa e da Ásia. Há cerca de 80 espécies de camaleões, a maior parte delas na África, ao sul do Saara, estando também presentes em Portugal e na Espanha.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Cham%C3%A4leon1.jpg/800px-Cham%C3%A4leon1.jpg"
+},
+{
+  "_id": {
+    "$oid": "6663a94d7b4bb9af710ec798"
+  },
+  "commonName": "Lagartixa-doméstica-tropical",
+  "scientificName": "Hemidactylus mabouia",
+  "description": "A lagartixa-doméstica-tropical ou lagartixa de parede, denominada cientificamente Hemidactylus mabouia, é uma espécie de lagarto de pequenas dimensões frequentemente encontrada nos lares brasileiros.",
+  "imageUrl": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRxNnWbZE6XfXmKi6pZFjvM5zCYD9YdjkAwPbMqbI_PlsIsiNQtmVPmt3ABwtz9jvK8H96oi-5YvMdTE_I"
+},
+{
+  "_id": {
+    "$oid": "6663a9997b4bb9af710ec799"
+  },
+  "commonName": "Coruja-orelhuda\r",
+  "scientificName": "Asio clamator",
+  "description": "Bufo-gritador ou coruja-orelhuda é uma coruja de hábitos noturnos da família dos estrigídeos, com ampla distribuição na América Central e do Sul, com exceção das áreas florestais da Amazônia.",
+  "imageUrl": "https://s3.amazonaws.com/media.wikiaves.com.br/images/529/925978_42b28b2c2f82feaabbc48466bda94ebb.jpg"
+},
+{
+  "_id": {
+    "$oid": "6663a9de7b4bb9af710ec79a"
+  },
+  "commonName": "Uiramiri",
+  "scientificName": "Pipra aureola",
+  "description": "O uiramiri ou dançarino-escarlate é uma ave passeriforme, da família Pipridae, encontrada na região amazônica, em matas periodicamente inundadas e em várzeas. Assemelha-se ao uirapuru-laranja, diferindo deste pelo abdome negro com faixa vermelha no centro.",
+  "imageUrl": "https://s3.amazonaws.com/media.wikiaves.com.br/images/2732/2372564_2ca8c9072872d78fe24cc16ee6617db8.jpg"
+},
+{
+  "_id": {
+    "$oid": "6663aa347b4bb9af710ec79b"
+  },
+  "commonName": "Kermit the Frog",
+  "scientificName": "Kermitus viridis",
+  "description": "Kermitus viridis, comumente conhecido como Kermit the Frog, é uma espécie fictícia de anfíbio reconhecida por sua cor verde vibrante e por sua habilidade de comunicação vocal notavelmente desenvolvida. Esta espécie é famosa na cultura popular, principalmente devido à sua presença em programas de televisão e filmes.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/pt/thumb/6/62/Kermit_the_Frog.jpg/200px-Kermit_the_Frog.jpg"
+},
+{
+  "_id": {
+    "$oid": "6663aafa7b4bb9af710ec79c"
+  },
+  "commonName": "Dragão-de-komodo\r",
+  "scientificName": "Varanus komodoensis",
+  "description": "Dragão-de-komodo é uma espécie de lagarto que vive nas ilhas de Komodo, Rinca, Gili Motang e Flores, todas localizadas na Indonésia.",
+  "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcROKZxwzGd27ZHQgaV3xM0Q0eU_Dy5QGhuKuAw5wwLY52syUdov"
+},
+{
+  "_id": {
+    "$oid": "6663ab327b4bb9af710ec79d"
+  },
+  "commonName": "Lagartixa-leopardo",
+  "scientificName": "Eublepharis macularius\r",
+  "description": "O Eublepharis macularius, conhecido vulgarmente por Lagartixa-leopardo, osga-leopardo, ou geco-leopardo é um réptil pertencente à família Gekkonidae.",
+  "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvqoEUi90ySyPOwt3EaJVQ0DvMWPAheJVKO95dknf8Be9qAIiB"
+},
+{
+  "_id": {
+    "$oid": "6663ab657b4bb9af710ec79e"
+  },
+  "commonName": "Corvo-comum",
+  "scientificName": "Corvus corax\r",
+  "description": "O corvo-comum é um pássaro da família Corvidae, um grande passeriforme encontrado em todo o hemisfério norte e a mais cosmopolita das espécies de corvídeos.",
+  "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTacKXZzx06FZTWeZPjh_ZEMAWXeF_ZCmV8Ah7FKQgaQLs60sp4"
+},
+{
+  "_id": {
+    "$oid": "6663ab997b4bb9af710ec79f"
+  },
+  "commonName": "Gaio-azul\r",
+  "scientificName": "Cyanocitta cristata",
+  "description": "O gaio-azul é uma ave passeriforme e membro da família dos corvos, que é originária da América do Norte. É uma espécie adaptável, agressiva, e onívora.",
+  "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeJPM30TFi-fOE6pr6HsBSP8Pbd3rBxPfhGh3cv6TkDPRGvrDm"
+},
+{
+  "_id": {
+    "$oid": "6663abf27b4bb9af710ec7a0"
+  },
+  "commonName": "Toupeira-nariz-de-estrela",
+  "scientificName": "Condylura cristata",
+  "description": "A toupeira-nariz-de-estrela é uma toupeira pequena encontrada em áreas baixas e úmidas nas partes do norte da América. É o único membro da tribo Condylurini e do gênero Condylura.",
+  "imageUrl": "http://wildsouth.org/wp-content/uploads/2013/06/star-nosed-mole.jpg"
+},
+{
+  "_id": {
+    "$oid": "6663ac297b4bb9af710ec7a1"
+  },
+  "commonName": "Baleia-jubarte\r",
+  "scientificName": "Megaptera novaeangliae",
+  "description": "A jubarte ou baleia-jubarte, também conhecida como baleia-corcunda, baleia-cantora, baleia-corcova, baleia-de-corcova, baleia-de-bossas, baleia-preta ou baleia-xibarte é um mamífero marinho presente na maioria dos oceanos. Ela é da ordem dos cetartiodáctilos, subordem dos cetáceos e infraordem dos misticetos.",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Humpback_Whales_-_South_Bank.jpg"
+},
+{
+  "_id": {
+    "$oid": "6663ac787b4bb9af710ec7a2"
+  },
+  "commonName": "Mew",
+  "scientificName": "Mewus mysticus",
+  "description": "Mewus mysticus, comumente conhecido como Mew, é uma espécie de criatura fictícia altamente reverenciada no universo Pokémon. É conhecida por suas habilidades psíquicas excepcionais e por ser uma das primeiras e mais misteriosas espécies descobertas.",
+  "imageUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b64a216a-927f-45db-9e32-e6f0e3c503c9/d20wap6-00f080ac-1c1b-401e-9394-84f73c9d0df5.jpg/v1/fill/w_600,h_416,q_75,strp/real_life_pokemon___mew_by_heyzabava_d20wap6-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDE2IiwicGF0aCI6IlwvZlwvYjY0YTIxNmEtOTI3Zi00NWRiLTllMzItZTZmMGUzYzUwM2M5XC9kMjB3YXA2LTAwZjA4MGFjLTFjMWItNDAxZS05Mzk0LTg0ZjczYzlkMGRmNS5qcGciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.s6bSoz8MmKhYqsMRs5EJncdHUJQVaWt17dvvG6LjvQ4"
+}]

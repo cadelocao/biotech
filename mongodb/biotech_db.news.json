@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "6653ac781333c8f1167dcec7"
+  },
+  "title": "Por que peixes-bois da Flórida estão viciados em usinas elétricas",
+  "description": "Os enormes peixes-bois cinza da Flórida (EUA) costumam nadar preguiçosamente com seus corpos cobertos de cracas, perto da superfície do canal protegido ao lado de Apollo Beach, na Costa do Golfo.",
+  "date": "2024-04-27T15:30:00",
+  "url": "https://www.bbc.com/portuguese/articles/cp6gegxg33xo",
+  "type": false
+},
+{
+  "_id": {
+    "$oid": "6653af4e1333c8f1167dcec8"
+  },
+  "title": "Guerra na Ucrânia fez águias desviarem rota de migração ",
+  "description": "Mudança pode ter um efeito negativo na reprodução dos animais.",
+  "date": "2024-05-20T17:30:00",
+  "url": "https://veja.abril.com.br/ciencia/guerra-na-ucrania-fez-aguias-desviarem-rota-de-migracao/",
+  "type": false
+},
+{
+  "_id": {
+    "$oid": "6653b0fd1333c8f1167dcec9"
+  },
+  "title": "Funções Indisponíveis",
+  "description": "Funções Indisponíveis:\n\nMapas Interativos com utilização da API do Google Cloud\n\nIdentificação de espécies por fotos",
+  "date": "2024-05-23T20:35:00",
+  "url": "null",
+  "type": true
+},
+{
+  "_id": {
+    "$oid": "6653b5411333c8f1167dceca"
+  },
+  "title": "Laboratório de Biologia Sintética viabiliza pesquisas na fronteira da ciência",
+  "description": "O Prédio da Biologia Sintética da Embrapa Recursos Genéticos e Biotecnologia (Brasília – DF) foi inaugurado nesta terça-feira (21/05), com uma área de 935,22 m² e 10 laboratórios.",
+  "date": "2024-05-23T12:00:00",
+  "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/89558652/predio-da-biologia-sintetica-e-inaugurado-na-fronteira-da-ciencia",
+  "type": false
+},
+{
+  "_id": {
+    "$oid": "6663acfbb821ec2d44000000"
+  },
+  "title": "Novo tipo de formiga azul metálica é descoberto na Índia",
+  "description": "A coloração é rara nesse grupo de insetos; a novidade representa um marco, já que desde 1902 nenhuma nova espécie tinha sido encontrada na Índia.",
+  "date": "2024-06-05T16:04:00.000",
+  "url": "https://revistagalileu.globo.com/ciencia/biologia/noticia/2024/06/novo-tipo-de-formiga-azul-metalica-e-descoberto-na-india.ghtml",
+  "type": false
+},
+{
+  "_id": {
+    "$oid": "6663aea5b821ed2d44000000"
+  },
+  "title": "Pepino-do-mar translúcido e outros seres bizarros são descobertos no Pacífico",
+  "description": "Zona a mais de 3 mil metros nas profundezas, explorada em expedição para mapear biodiversidade, é alvo de projetos de mineração que ameaçam a sobrevivência das espécies",
+  "date": "2024-06-06T12:11:00.000",
+  "url": "https://revistagalileu.globo.com/ciencia/biologia/noticia/2024/06/pepino-do-mar-translucido-e-outros-seres-bizarros-sao-descobertos-no-pacifico.ghtml",
+  "type": false
+}]

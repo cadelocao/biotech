@@ -1,0 +1,31 @@
+name: flutter_application_2
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  mongo_dart: ^0.10.2
+  google_maps_flutter: ^2.1.1
+  url_launcher: ^6.0.20
+  intl: ^0.17.0
+  image_picker: ^0.8.4+4
+  font_awesome_flutter: ^10.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/biotech_logo_2.png
+    - assets/species1.jpg
+    - assets/species2.jpg
+
+

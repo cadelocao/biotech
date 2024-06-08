@@ -1,0 +1,189 @@
+[{
+  "_id": {
+    "$oid": "6653c0a39808f16cea000000"
+  },
+  "name": "Cristiano José Corrêa de Oliveira",
+  "email": "criscorrea388@gmail.com",
+  "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+  "profilePicture": ""
+},
+{
+  "_id": {
+    "$oid": "6653cd04e0c11bf1d3000000"
+  },
+  "name": "Admin",
+  "email": "Admin",
+  "password": "c1c224b03cd9bc7b6a86d77f5dace40191766c485cd55dc48caf9ac873335d6f",
+  "profilePicture": "https://img.odcdn.com.br/wp-content/uploads/2024/02/Eminem.png"
+},
+{
+  "_id": {
+    "$oid": "6653cffe1e1fbf3aa7000000"
+  },
+  "name": "ALL CAPS",
+  "email": "mfdoom@gmail.com",
+  "password": "910ecd3e43c7d241425a16a378dae72ea48201f9bada186f036d9bdeb4368444",
+  "profilePicture": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/3/7/4/e3745f304ba8111771e028e9e12513bd.jpg"
+},
+{
+  "_id": {
+    "$oid": "6653fc4acf2713a52b000000"
+  },
+  "name": "Ruler Zig Zag Zig Allah",
+  "email": "therza@gmail.com",
+  "password": "ec5f70142aaeb262eaf5063d536df28620cfc0bdbd721c6b7e0155645148f7c4",
+  "profilePicture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCQljiZmO33DSQmBQF7b4KKlBkNHX2PJjXAvCRIbD95HLfAHWw"
+},
+{
+  "_id": {
+    "$oid": "66548c754c8b33c620000000"
+  },
+  "name": "Fulano Da Silva",
+  "email": "fulano@gmail.com",
+  "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+  "profilePicture": "https://i.pinimg.com/736x/5a/a5/d6/5aa5d6321cf7e5c16bef7f4ae6644980.jpg"
+},
+{
+  "_id": {
+    "$oid": "66548e3b4c8b34c620000000"
+  },
+  "name": "Michael Scott",
+  "email": "michaelscott@gmail.com",
+  "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+  "profilePicture": "https://i.pinimg.com/736x/5a/a5/d6/5aa5d6321cf7e5c16bef7f4ae6644980.jpg"
+},
+{
+  "_id": {
+    "$oid": "665df6fde0249ba8f8000000"
+  },
+  "name": "admin",
+  "email": "admin",
+  "password": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+  "profilePicture": ""
+},
+{
+  "_id": {
+    "$oid": "6661c0316dd46a3c26000000"
+  },
+  "name": "jules",
+  "email": "girassol.correa27@gmail.com",
+  "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+  "profilePicture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/LeBron_James_and_Kevin_Love_%28cropped%29.jpg/640px-LeBron_James_and_Kevin_Love_%28cropped%29.jpg"
+},
+{
+  "_id": {
+    "$oid": "666200d13629433eee000000"
+  },
+  "name": "Michael Jordan",
+  "email": "airjordan",
+  "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+  "profilePicture": "https://lista10.org/wp-content/uploads/2023/05/michael-jordan-looks.jpg"
+},
+{
+  "_id": {
+    "$oid": "66634c69490625249d000000"
+  },
+  "name": "Dante",
+  "email": "dmc@gmail.com",
+  "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+  "profilePicture": "https://historiablog.org/wp-content/uploads/2023/09/dante-perfil.jpeg"
+},
+{
+  "_id": {
+    "$oid": "66634dfdad4f10a0f1000000"
+  },
+  "name": "Radagon",
+  "email": "eldenbeast@gmail.com",
+  "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+  "profilePicture": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/08/elden-ring-radagon.png"
+},
+{
+  "_id": {
+    "$oid": "66634f02ad4f12a0f1000000"
+  },
+  "name": "O. J. Simpson",
+  "email": "storyofoj@gmail.com",
+  "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+  "profilePicture": "https://upload.wikimedia.org/wikipedia/commons/c/c8/O.J._Simpson_1990_%C2%B7_DN-ST-91-03444_crop.JPEG"
+},
+{
+  "_id": {
+    "$oid": "66634f80ad4f14a0f1000000"
+  },
+  "name": "Eric Cartman",
+  "email": "cartman@gmail.com",
+  "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+  "profilePicture": "https://upload.wikimedia.org/wikipedia/en/thumb/7/72/CartmanWithoutHat.jpg/200px-CartmanWithoutHat.jpg"
+},
+{
+  "_id": {
+    "$oid": "6663504cad4f16a0f1000000"
+  },
+  "name": "Seu Gerson",
+  "email": "seugerson@gmail.com",
+  "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+  "profilePicture": "https://img.freepik.com/fotos-gratis/velho-sorridente-com-oculos_23-2148740051.jpg"
+},
+{
+  "_id": {
+    "$oid": "666351a7ad4f18a0f1000000"
+  },
+  "name": "Iron Mike",
+  "email": "miketyson@gmail.com",
+  "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+  "profilePicture": "https://s2-oglobo.glbimg.com/mCT0C8qdyvRV4DZ6glFPg6PtBRI=/0x0:780x528/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2022/r/5/NL5oJbSWGIEL1DRCCW4w/tyson.png"
+},
+{
+  "_id": {
+    "$oid": "6663524aad4f1aa0f1000000"
+  },
+  "name": "KobeFan24Ever",
+  "email": "kobe4ever@gmail.com",
+  "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+  "profilePicture": "https://image.api.playstation.com/vulcan/ap/rnd/202307/2809/a9fe3100a67c5d90e6cc5d24ebab09b8305468493192deac.jpg"
+},
+{
+  "_id": {
+    "$oid": "666456c5b7c67cd8c7000000"
+  },
+  "name": "Stephen Stequer",
+  "email": "stephen@gmail.com",
+  "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+  "profilePicture": "https://www.brianbero.com/DRAC1000mdlg.jpg"
+},
+{
+  "_id": {
+    "$oid": "6664582fda14adec6b000000"
+  },
+  "name": "Nicolas Kenzo",
+  "email": "nicolas@gmail.com",
+  "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+  "profilePicture": "https://s2.static.brasilescola.uol.com.br/be/2020/12/peixe.jpg"
+},
+{
+  "_id": {
+    "$oid": "66645b44da14afec6b000000"
+  },
+  "name": "michel uniso",
+  "email": "michel@gmail.com",
+  "password": "8bb0cf6eb9b17d0f7d22b456f121257dc1254e1f01665370476383ea776df414",
+  "profilePicture": ""
+},
+{
+  "_id": {
+    "$oid": "66645e1846e131e536000000"
+  },
+  "name": "Matheus lima",
+  "email": "matheus12345@hotmail.com",
+  "password": "15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225",
+  "profilePicture": ""
+},
+{
+  "_id": {
+    "$oid": "6664619b72c3ed199d000000"
+  },
+  "name": "yuri padua",
+  "email": "yuriuniso@gmail.com",
+  "password": "5d1d36ac954b332d5bd5ab171515006c038ff256ca01684939c6d0ab474a4967",
+  "profilePicture": "https://static.wikia.nocookie.net/pokemonet/images/8/87/004CharmanderFRLG.png/revision/latest?cb=20130505000902&path-prefix=pt-br"
+}]
